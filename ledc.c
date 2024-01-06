@@ -3,6 +3,10 @@
 
 
 #define MOTO_GPIO_1 2
+// #define MOTO_GPIO_1 2
+// #define AIN1 13
+// #define AIN2 12
+// #define I2C_MASTER_TIMEOUT_MS 1000
 
 
 void Timer_Init(){
